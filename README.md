@@ -92,7 +92,14 @@ In case you have questions about the code, you identify potential bugs, or you w
 
 If you use parts of the code in this repository for your own research, please consider citing:
 ```
-
+@inproceedings{
+velasco2026auditing,
+title={Auditing Pay-Per-Token in Large Language Models},
+author={Ander Artola Velasco and Stratis Tsirtsis and Manuel Gomez Rodriguez},
+booktitle={The 29th International Conference on Artificial Intelligence and Statistics},
+year={2026},
+url={https://openreview.net/forum?id=6lboj007YA}
+}
 ```
 
 
